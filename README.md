@@ -1,4 +1,4 @@
-[### Hi there 👋
+### Hi there 👋
 
 <h3 align="left">Profile🤍</h3>
 <div align="left">
