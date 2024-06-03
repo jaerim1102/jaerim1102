@@ -2,39 +2,8 @@
 
 <h3 align="left">Profile🤍</h3>
 <div align="left">
-- 🌱 멋쟁이사자처럼 프론트엔드 스쿨 10기 수료중 <br>
+- 🦁 멋쟁이사자처럼 프론트엔드 스쿨 10기 수료중 <br>
 - ⚙️ Front end developer <br>
 </div>
 
-
-<h3 align="left">Tech stack</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp
-</div>
-
-<h3 align="left">Tools</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<h3 align="left">Please feel free to reach out to me!</h3>
-<div align="left">
-  <a href="https://velog.io/@codingsnail"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@codingsnail"/></a>&nbsp
-  <a href="mailto:5132jinyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=5132jinyu@gmail.com"/></a>
-  <br>
-  <br>
-</div>
-
-<div align="left">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinjintv&show_icons=true&theme=panda)
-</div>
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
