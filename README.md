@@ -1,14 +1,11 @@
 <div align="center">
   <h1>Hello, I'm JaeRim 💕</h1>
-
-   <p>🦁 멋쟁이사자처럼 프론트엔드 스쿨 10기 수료</p>
  <p>⚙️ Front end developer</p>
   
 ![DHarZxvdnfS1Y0xJX7AWSjUOnpo-3oUzjQb-ahMqh6NR6z_IbXC1wjEibO-CWq2MIc4rGCF4Y8bW7YdCaoGIUg](https://github.com/jaerim1102/jaerim1102/assets/102707011/4e64b321-16e4-43c3-b2a7-a2071467d3e2)
 
   
 
-<h2>💻 Tech Stack 💻</h2>
 
 <h3>📖 Languages</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
