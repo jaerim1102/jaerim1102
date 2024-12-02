@@ -38,6 +38,22 @@
 <a href="https://jjcom.netlify.app/">🔗 웹 사이트 링크</a> 
 <a href="https://github.com/FRONTENDSCHOOL10/LEEKIM?tab=readme-ov-file">🖌️ Github 저장소</a>  
 
+<h3 font-size="20px">🧩 2024 DELIGHT INSIGHT : BE[biː] </h3>
+<img width="80px" src="https://github.com/user-attachments/assets/19eafec9-94ec-41cf-ba9e-b6c9f34b0f24"/>
+
+<p>: 2024 계원예술대학교 디지털미디어디자인과 졸업전시회 브랜딩 </br>
+ </br>
+- REACT/JS/CSS/PocketBase </br>
+- 2024 계원예술대학교 디지털미디어디자인과 졸업전시회 브랜딩 </br>
+- 디자이너 세 명, 기획자 한 명, 개발자 한 명과 협업 </br>
+- 환경 구성, 메인, 커리큘럼, 프로젝트, 학생 페이지 등 </br>
+- 웹/앱 반응형 구현 </br>
+- 졸업 작품 심사 최우수작, 공로상
+</p>
+
+<a href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
+<a href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a>  
+
 
 <h2>Skills</h2>
 
