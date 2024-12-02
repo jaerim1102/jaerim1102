@@ -10,7 +10,7 @@
 
 
 <h2>My Project</h2>
-<img width="25px" src="https://github.com/user-attachments/assets/df013a70-3eda-4eba-9612-e45f27f99e6d" /> <b>외국인들의 성공적인 한국 생활 적응/정착 지원 서비스 </b>
+<img width="30px" src="https://github.com/user-attachments/assets/df013a70-3eda-4eba-9612-e45f27f99e6d" /> <b>외국인들의 성공적인 한국 생활 적응/정착 지원 서비스 </b>
 
 
 <h2>Skills</h2>
