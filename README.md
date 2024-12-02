@@ -11,14 +11,19 @@
 
 <h2>My Project</h2>
 <img width="50px" src="https://github.com/user-attachments/assets/18b8dcb8-f73b-4993-a4d7-86c03797dbe6" />
-
-<b>WE:UT</b>
+</br>
+<b>WE;UT</b>
 <p>: 외국인들의 성공적인 한국 생활 적응/정착 지원 서비스 </br>
-- HTML/CSS/JS
-- 디자이너 두 명과 협업
-- 데스크탑 고정형 웹
+- HTML/CSS/JS  </br>
+- 디자이너 두 명과 협업  </br>
+- 데스크탑 고정형 웹  </br>
 - 2023 커뮤니케이션 국제 공모전 동상
 </p>
+
+ <a href="https://jaerim1102.github.io/WE.UT/">웹 사이트 링크</a> 
+<a href="https://github.com/jaerim1102/WE.UT">Github 저장소</a>  
+
+
 
 
 <h2>Skills</h2>
