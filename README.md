@@ -13,7 +13,7 @@
 <img width="50px" src="https://github.com/user-attachments/assets/18b8dcb8-f73b-4993-a4d7-86c03797dbe6" />
  </br>
 </br>
-<b>WE;UT</b>
+<b font-size="20px">WE;UT</b>
 <p>: 외국인들의 성공적인 한국 생활 적응/정착 지원 서비스 </br>
  </br>
 - HTML/CSS/JS  </br>
