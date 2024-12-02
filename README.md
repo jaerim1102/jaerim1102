@@ -14,6 +14,7 @@
 <h3>🌈 WE;UT</h3>
 <img width="50px" src="https://github.com/user-attachments/assets/18b8dcb8-f73b-4993-a4d7-86c03797dbe6" />
 <p><b>: 외국인들의 성공적인 한국 생활 적응/정착 지원 서비스</b> </br>
+</br>
 - HTML/CSS/JS  </br>
 - 디자이너 두 명과 협업  </br>
 - 데스크탑 고정형 웹  </br>
@@ -27,6 +28,7 @@
 <h3>📘 졸전닷컴</h3>
 <img width="100px" src="https://github.com/user-attachments/assets/8b31a1bb-dfce-4ac6-a896-b47f8fc08347"/>
 <p><b>: 졸업 전시회 모음 웹 사이트 졸전 닷컴</b></br>
+</br>
  - 멋쟁이 사자처럼 프론트엔드 스쿨 REACT 프로젝트 </br>
 - HTML/REACT/SASS/TypeScript/PocketBase </br>
 - 대학교들의 졸업 전시를 한번에 모아두는 사이트 </br>
@@ -42,6 +44,7 @@
 <img width="80px" src="https://github.com/user-attachments/assets/19eafec9-94ec-41cf-ba9e-b6c9f34b0f24"/>
 
 <p><b>: 2024 계원예술대학교 디지털미디어디자인과 졸업전시회 브랜딩</b></br>
+</br>
 - REACT/JS/CSS/PocketBase </br>
 - 2024 계원예술대학교 디지털미디어디자인과 졸업전시회 브랜딩 </br>
 - 디자이너 세 명, 기획자 한 명, 개발자 한 명과 협업 </br>
