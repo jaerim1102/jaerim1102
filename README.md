@@ -20,8 +20,8 @@
 - 2023 커뮤니케이션 국제 공모전 동상
 </p>
 
- <a href="https://jaerim1102.github.io/WE.UT/">웹 사이트 링크</a> 
-<a href="https://github.com/jaerim1102/WE.UT">Github 저장소</a>  
+ <a href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
+<a href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a>  
 
 
 
@@ -42,7 +42,7 @@
 <img height="23px" src="https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white"/>
 <img height="23px" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white" />
 <img height="23px" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img height="23px"https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+<img height="23px" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 
 <h3>💾 Database</h3>
 <img height="23px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
