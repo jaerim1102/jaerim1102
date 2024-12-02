@@ -10,7 +10,7 @@
 
 
 <h2>My Project</h2>
-<h3 font-size="20px">WE;UT</h3>
+<h3 font-size="20px">🌈 WE;UT</h3>
 <img width="50px" src="https://github.com/user-attachments/assets/18b8dcb8-f73b-4993-a4d7-86c03797dbe6" />
 <p>: 외국인들의 성공적인 한국 생활 적응/정착 지원 서비스 </br>
  </br>
@@ -23,7 +23,7 @@
 <a href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
 <a href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a>  
 
-<h3 font-size="20px">졸전닷컴</h3>
+<h3 font-size="20px">📘 졸전닷컴</h3>
 <img width="80px" src="https://github.com/user-attachments/assets/8b31a1bb-dfce-4ac6-a896-b47f8fc08347"/>
 <p>: 졸업 전시회 모음 웹 사이트 졸전 닷컴 </br>
  </br>
