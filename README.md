@@ -41,7 +41,7 @@
 
 
 <h3>🧩 2024 DELIGHT INSIGHT : BE[biː] </h3>
-![비니](https://github.com/user-attachments/assets/7c0a4f4b-8bc0-459e-be49-204598c38299)
+<img width="100px" src="https://github.com/user-attachments/assets/7c0a4f4b-8bc0-459e-be49-204598c38299"/>
 
 
 
