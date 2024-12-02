@@ -10,7 +10,9 @@
 
 
 <h2>My Project</h2>
-<img width="30px" src="https://github.com/user-attachments/assets/df013a70-3eda-4eba-9612-e45f27f99e6d" /> <b>WE:UT</b>
+<img width="50px" src="https://github.com/user-attachments/assets/18b8dcb8-f73b-4993-a4d7-86c03797dbe6" />
+
+<b>WE:UT</b>
 <p>: 외국인들의 성공적인 한국 생활 적응/정착 지원 서비스 </br>
 - HTML/CSS/JS
 - 디자이너 두 명과 협업
