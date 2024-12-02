@@ -25,7 +25,7 @@
 <a href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a>  
 
 <h3 font-size="20px">📘 졸전닷컴</h3>
-<img width="80px" src="https://github.com/user-attachments/assets/8b31a1bb-dfce-4ac6-a896-b47f8fc08347"/>
+<img width="100px" src="https://github.com/user-attachments/assets/8b31a1bb-dfce-4ac6-a896-b47f8fc08347"/>
 <p>: 졸업 전시회 모음 웹 사이트 졸전 닷컴 </br>
  </br>
  - 멋쟁이 사자처럼 프론트엔드 스쿨 REACT 프로젝트 </br>
