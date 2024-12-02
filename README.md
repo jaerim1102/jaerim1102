@@ -29,8 +29,8 @@
 <img width="100px" src="https://github.com/user-attachments/assets/8b31a1bb-dfce-4ac6-a896-b47f8fc08347"/>
 <p><b>: 졸업 전시회 모음 웹 사이트 졸전 닷컴</b></br>
 </br>
- - 멋쟁이 사자처럼 프론트엔드 스쿨 REACT 프로젝트 </br>
 - HTML/REACT/SASS/TypeScript/PocketBase </br>
+- 멋쟁이 사자처럼 프론트엔드 스쿨 REACT 프로젝트 </br>
 - 대학교들의 졸업 전시를 한번에 모아두는 사이트 </br>
 - 개발자 세 명과 협업 </br>
 - Design 총괄
