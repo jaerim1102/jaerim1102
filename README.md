@@ -5,9 +5,7 @@
 <p>e-mail: jaerim1102@naver.com</p>
 <p>blog: https://velog.io/@jaaerim </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaerim1102&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaerim1102&layout=compact"><br><br>
+<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaerim1102&show_icons=true&theme=radical) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaerim1102&layout=compact"></div>
 
 
 <h2>Skills</h2>
