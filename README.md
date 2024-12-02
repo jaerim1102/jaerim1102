@@ -21,8 +21,8 @@
 - 2023 커뮤니케이션 국제 공모전 동상
 </p>
 
-🌀 <a font-size="13px" href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
-<a font-size="13px" href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a> 🌀
+🌀 <a font-size="13px" href="https://jaerim1102.github.io/WE.UT/">웹 사이트 링크</a> 
+<a font-size="13px" href="https://github.com/jaerim1102/WE.UT">Github 저장소</a> 🌀
 
 
 <h3>📘 졸전닷컴</h3>
@@ -36,8 +36,8 @@
 - Design 총괄
 </p>
 
-🌀 <a font-size="13px" href="https://jjcom.netlify.app/">🔗 웹 사이트 링크</a> 
-<a font-size="13px" href="https://github.com/FRONTENDSCHOOL10/LEEKIM?tab=readme-ov-file">🖌️ Github 저장소</a>  🌀
+🌀 <a font-size="13px" href="https://jjcom.netlify.app/">웹 사이트 링크</a> 
+<a font-size="13px" href="https://github.com/FRONTENDSCHOOL10/LEEKIM?tab=readme-ov-file">Github 저장소</a>  🌀
 
 
 <h3>🧩 2024 DELIGHT INSIGHT : BE[biː] </h3>
@@ -53,8 +53,8 @@
 - 졸업 작품 심사 최우수작, 공로상
 </p>
 
-🌀 <a font-size="13px" href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
-<a font-size="13px" href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a>  🌀
+🌀 <a font-size="13px" href="https://jaerim1102.github.io/WE.UT/">웹 사이트 링크</a> 
+<a font-size="13px" href="https://github.com/jaerim1102/WE.UT">Github 저장소</a>  🌀
 
 
 <h2>Skills</h2>
