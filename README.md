@@ -9,6 +9,10 @@
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaerim1102&layout=compact">
 
 
+<h2>My Project</h2>
+![WE;UT](https://github.com/user-attachments/assets/df013a70-3eda-4eba-9612-e45f27f99e6d)
+
+
 <h2>Skills</h2>
 
 <h3>📖 Languages</h3>
