@@ -41,7 +41,9 @@
 
 
 <h3>🧩 2024 DELIGHT INSIGHT : BE[biː] </h3>
-<img width="80px" src="https://github.com/user-attachments/assets/19eafec9-94ec-41cf-ba9e-b6c9f34b0f24"/>
+![비니](https://github.com/user-attachments/assets/7c0a4f4b-8bc0-459e-be49-204598c38299)
+
+
 
 <p><b>: 2024 계원예술대학교 디지털미디어디자인과 졸업전시회 브랜딩</b></br>
 </br>
