@@ -21,7 +21,7 @@
 - 2023 커뮤니케이션 국제 공모전 동상
 </p>
 
-<a href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
+✅ <a href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
 <a href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a>  
 
 
@@ -36,7 +36,7 @@
 - Design 총괄
 </p>
 
-<a href="https://jjcom.netlify.app/">🔗 웹 사이트 링크</a> 
+✅ <a href="https://jjcom.netlify.app/">🔗 웹 사이트 링크</a> 
 <a href="https://github.com/FRONTENDSCHOOL10/LEEKIM?tab=readme-ov-file">🖌️ Github 저장소</a>  
 
 
@@ -53,7 +53,7 @@
 - 졸업 작품 심사 최우수작, 공로상
 </p>
 
-<a href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
+✅ <a href="https://jaerim1102.github.io/WE.UT/">🔗 웹 사이트 링크</a> 
 <a href="https://github.com/jaerim1102/WE.UT">🖌️ Github 저장소</a>  
 
 
