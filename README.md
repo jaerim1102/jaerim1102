@@ -6,4 +6,5 @@
 <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaerim1102&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaerim1102&layout=compact)
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaerim1102&layout=compact">
+
