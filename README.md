@@ -1,6 +1,5 @@
 
 <div>
-  <h2>About me</h2>
  <p><b>김재림</b> ⚙️ Front end developer 🍄 devsigner </p>
 ❤️ <a font-size="13px" href="https://jaerim.kr/">PORTFOLIO</a> ❤️
 <br/>
