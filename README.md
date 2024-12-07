@@ -2,7 +2,8 @@
 <div>
   <h2>About me</h2>
  <p><b>김재림</b> ⚙️ Front end developer 🍄 devsigner </p>
-❤️ <a font-size="13px" href="https://jaerim.kr/">포트폴리오</a> ❤️
+❤️ <a font-size="13px" href="https://jaerim.kr/">PORTFOLIO</a> ❤️
+<br/>
 <br/>
 <p>e-mail: jaerim1102@naver.com</p>
 <p>blog: https://velog.io/@jaaerim </p>
